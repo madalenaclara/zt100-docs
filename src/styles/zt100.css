@@ -1,0 +1,14 @@
+/* Zero to 100 brand theming for Starlight */
+:root {
+  --sl-color-accent-low: #cfe5f6;
+  --sl-color-accent: #3D99D4;
+  --sl-color-accent-high: #2C7099;
+  --sl-color-text-accent: #2C7099;
+  --sl-font: "Avenir Next", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+}
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #103049;
+  --sl-color-accent: #4FA6DA;
+  --sl-color-accent-high: #bcdcf2;
+}
+.site-title { font-weight: 800; }
