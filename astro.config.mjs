@@ -29,6 +29,7 @@ export default defineConfig({
           { label: 'Learning', items: [
             { label: 'Courses: journeys & micro-skills', link: '/learning/courses/' },
             { label: 'AI Lab', link: '/learning/ai-lab/' },
+            { label: 'Community', link: '/learning/community/' },
           ]},
           { label: 'Workflows', items: [
             { label: 'Workflow analysis & builder', link: '/workflows/workflow-builder/' },
@@ -44,9 +45,6 @@ export default defineConfig({
         ]},
         { label: 'Agents & automation', items: [
           { label: 'Agents & automation', link: '/agents/agents-automation/' },
-        ]},
-        { label: 'For partners', items: [
-          { label: 'Partner docs (log in)', link: 'https://app.augmtd.ai/partner-docs', attrs: { target: '_blank', rel: 'noopener' }, badge: { text: 'Partner', variant: 'caution' } },
         ]},
         { label: 'Resources', items: [
           { label: 'Changelog', link: '/resources/changelog/' },

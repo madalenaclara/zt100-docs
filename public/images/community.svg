@@ -1,0 +1,67 @@
+<svg viewBox="0 0 1000 460" xmlns="http://www.w3.org/2000/svg" font-family="'Avenir Next', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="998" height="458" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
+  <text x="40" y="48" fill="#2E2D3A" font-size="22" font-weight="800">Community</text>
+  <text x="40" y="72" fill="#8A8F9C" font-size="13.5">Share resources, ideas and best practices across the organisation.</text>
+  <rect x="828" y="26" width="132" height="22" rx="11" fill="#F1F2F5"/>
+  <text x="894" y="41" fill="#8A8F9C" font-size="11" text-anchor="middle">demo data</text>
+
+  <!-- stat tiles -->
+  <g>
+    <g transform="translate(40,92)">
+      <rect width="293" height="66" rx="12" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <text x="20" y="40" fill="#3D99D4" font-size="26" font-weight="800">38</text>
+      <text x="70" y="40" fill="#6B7280" font-size="12.5">Active contributors</text>
+    </g>
+    <g transform="translate(353,92)">
+      <rect width="293" height="66" rx="12" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <text x="20" y="40" fill="#3D99D4" font-size="26" font-weight="800">24</text>
+      <text x="70" y="40" fill="#6B7280" font-size="12.5">Ideas submitted</text>
+    </g>
+    <g transform="translate(666,92)">
+      <rect width="294" height="66" rx="12" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <text x="20" y="40" fill="#3D99D4" font-size="26" font-weight="800">7</text>
+      <text x="58" y="40" fill="#6B7280" font-size="12.5">Implemented</text>
+    </g>
+  </g>
+
+  <!-- ideas strip -->
+  <g transform="translate(40,174)">
+    <rect width="920" height="56" rx="12" fill="#EAF5FC" stroke="#D4E9F5"/>
+    <text x="20" y="26" fill="#2C7099" font-size="11" letter-spacing="0.8" font-weight="700">WE WANT YOUR IDEAS</text>
+    <text x="20" y="44" fill="#4A5160" font-size="12.5">Have an AI use case in mind? Share it, and the best suggestions get implemented across the organisation.</text>
+    <rect x="752" y="14" width="152" height="28" rx="14" fill="#3D99D4"/>
+    <text x="828" y="33" fill="#ffffff" font-size="12.5" font-weight="700" text-anchor="middle">Submit your idea</text>
+  </g>
+
+  <!-- section cards -->
+  <g>
+    <!-- Resources -->
+    <g transform="translate(40,246)">
+      <rect width="448" height="88" rx="12" fill="#ffffff" stroke="#E6E6EC"/>
+      <text x="18" y="28" fill="#2E2D3A" font-size="14.5" font-weight="700">Resources</text>
+      <text x="18" y="47" fill="#8A8F9C" font-size="11.5">Trusted, company-approved AI guidance</text>
+      <text x="18" y="70" fill="#6B7280" font-size="12">AI usage policy · Approved tools list · Prompting starter guide</text>
+    </g>
+    <!-- Announcements -->
+    <g transform="translate(512,246)">
+      <rect width="448" height="88" rx="12" fill="#ffffff" stroke="#E6E6EC"/>
+      <text x="18" y="28" fill="#2E2D3A" font-size="14.5" font-weight="700">Announcements</text>
+      <text x="18" y="47" fill="#8A8F9C" font-size="11.5">AI initiatives and collective moments</text>
+      <text x="18" y="70" fill="#6B7280" font-size="12">AI Champions kickoff, 14 May · Claude now live in Finance</text>
+    </g>
+    <!-- Prompt of the Month -->
+    <g transform="translate(40,346)">
+      <rect width="448" height="88" rx="12" fill="#ffffff" stroke="#E6E6EC"/>
+      <text x="18" y="28" fill="#2E2D3A" font-size="14.5" font-weight="700">Prompt of the Month</text>
+      <text x="18" y="47" fill="#8A8F9C" font-size="11.5">Practical AI use through shared artifacts</text>
+      <text x="18" y="70" fill="#6B7280" font-size="12">"Turn meeting notes into a clear action list"</text>
+    </g>
+    <!-- Recent Ideas -->
+    <g transform="translate(512,346)">
+      <rect width="448" height="88" rx="12" fill="#ffffff" stroke="#E6E6EC"/>
+      <text x="18" y="28" fill="#2E2D3A" font-size="14.5" font-weight="700">Recent ideas</text>
+      <text x="18" y="47" fill="#8A8F9C" font-size="11.5">Ideas from employees across the organisation</text>
+      <text x="18" y="70" fill="#6B7280" font-size="12">Auto-draft client follow-ups · Invoice data extraction</text>
+    </g>
+  </g>
+</svg>
