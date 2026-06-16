@@ -1,57 +1,50 @@
 <svg viewBox="0 0 1000 380" xmlns="http://www.w3.org/2000/svg" font-family="'Avenir Next', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
   <rect x="1" y="1" width="998" height="378" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
-  <text x="500" y="46" fill="#2E2D3A" font-size="20" font-weight="800" text-anchor="middle">One platform, four parts</text>
-  <text x="500" y="70" fill="#8A8F9C" font-size="13.5" text-anchor="middle">Measure, teach, build and deploy. Everything connects, so progress in one part shows up in the others.</text>
+  <text x="500" y="46" fill="#2E2D3A" font-size="20" font-weight="800" text-anchor="middle">Zero to 100, in three parts</text>
+  <text x="500" y="70" fill="#8A8F9C" font-size="13.5" text-anchor="middle">The Platform measures, teaches and finds the work. Private AI and Agents put it to work, securely.</text>
   <!-- cards -->
   <g>
-    <!-- 1 Diagnostics -->
+    <!-- 1 The Platform -->
     <g transform="translate(40,104)">
-      <rect width="200" height="176" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
-      <rect x="20" y="22" width="40" height="40" rx="11" fill="#E1F0FA"/>
-      <path d="M30 52 a10 10 0 1 1 20 0" fill="none" stroke="#3D99D4" stroke-width="2.4"/>
-      <line x1="40" y1="52" x2="47" y2="44" stroke="#3D99D4" stroke-width="2.4" stroke-linecap="round"/>
-      <text x="20" y="92" fill="#2C7099" font-size="11" letter-spacing="1" font-weight="700">MEASURE</text>
-      <text x="20" y="116" fill="#2E2D3A" font-size="17" font-weight="700">Diagnostics</text>
-      <text x="20" y="142" fill="#6B7280" font-size="12.5">How ready every person</text>
-      <text x="20" y="159" fill="#6B7280" font-size="12.5">and team is today.</text>
-    </g>
-    <!-- 2 Learning -->
-    <g transform="translate(280,104)">
-      <rect width="200" height="176" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
-      <rect x="20" y="22" width="40" height="40" rx="11" fill="#E1F0FA"/>
-      <path d="M28 38 l12 -5 l12 5 l-12 5 z" fill="#3D99D4"/>
-      <path d="M33 44 v7 a7 4 0 0 0 14 0 v-7" fill="none" stroke="#3D99D4" stroke-width="2"/>
-      <text x="20" y="92" fill="#2C7099" font-size="11" letter-spacing="1" font-weight="700">TEACH</text>
-      <text x="20" y="116" fill="#2E2D3A" font-size="17" font-weight="700">Learning</text>
-      <text x="20" y="142" fill="#6B7280" font-size="12.5">Close the gaps with</text>
-      <text x="20" y="159" fill="#6B7280" font-size="12.5">training that fits.</text>
-    </g>
-    <!-- 3 Workflows -->
-    <g transform="translate(520,104)">
-      <rect width="200" height="176" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <rect width="280" height="176" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <circle cx="254" cy="26" r="13" fill="#3D99D4"/>
+      <text x="254" y="31" fill="#ffffff" font-size="15" font-weight="800" text-anchor="middle">1</text>
       <rect x="20" y="22" width="40" height="40" rx="11" fill="#E1F0FA"/>
       <rect x="29" y="31" width="9" height="9" rx="2" fill="#3D99D4"/><rect x="42" y="31" width="9" height="9" rx="2" fill="#7FC0E4"/>
       <rect x="29" y="44" width="9" height="9" rx="2" fill="#7FC0E4"/><rect x="42" y="44" width="9" height="9" rx="2" fill="#3D99D4"/>
-      <text x="20" y="92" fill="#2C7099" font-size="11" letter-spacing="1" font-weight="700">BUILD</text>
-      <text x="20" y="116" fill="#2E2D3A" font-size="17" font-weight="700">Workflows</text>
-      <text x="20" y="142" fill="#6B7280" font-size="12.5">Turn real tasks into</text>
-      <text x="20" y="159" fill="#6B7280" font-size="12.5">working assistants.</text>
+      <text x="20" y="92" fill="#2C7099" font-size="9.5" letter-spacing="0.6" font-weight="700">MEASURE · TEACH · BUILD · GOVERN</text>
+      <text x="20" y="116" fill="#2E2D3A" font-size="17" font-weight="700">The Platform</text>
+      <text x="20" y="142" fill="#6B7280" font-size="12.5">Measure readiness, teach the skills,</text>
+      <text x="20" y="159" fill="#6B7280" font-size="12.5">find the use cases, govern the risk.</text>
     </g>
-    <!-- 4 Private AI -->
-    <g transform="translate(760,104)">
-      <rect width="200" height="176" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+    <!-- 2 Private AI -->
+    <g transform="translate(360,104)">
+      <rect width="280" height="176" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <circle cx="254" cy="26" r="13" fill="#3D99D4"/>
+      <text x="254" y="31" fill="#ffffff" font-size="15" font-weight="800" text-anchor="middle">2</text>
       <rect x="20" y="22" width="40" height="40" rx="11" fill="#E1F0FA"/>
       <path d="M40 30 l10 4 v6 c0 7 -5 11 -10 13 c-5 -2 -10 -6 -10 -13 v-6 z" fill="none" stroke="#3D99D4" stroke-width="2.2" stroke-linejoin="round"/>
-      <text x="20" y="92" fill="#2C7099" font-size="11" letter-spacing="1" font-weight="700">DEPLOY</text>
+      <text x="20" y="92" fill="#2C7099" font-size="9.5" letter-spacing="0.6" font-weight="700">DEPLOY PRIVATELY</text>
       <text x="20" y="116" fill="#2E2D3A" font-size="17" font-weight="700">Private AI</text>
-      <text x="20" y="142" fill="#6B7280" font-size="12.5">Private AI inside the</text>
-      <text x="20" y="159" fill="#6B7280" font-size="12.5">organisation.</text>
+      <text x="20" y="142" fill="#6B7280" font-size="12.5">Secure AI on the organisation's own</text>
+      <text x="20" y="159" fill="#6B7280" font-size="12.5">data, inside its own environment.</text>
+    </g>
+    <!-- 3 Agents & automation -->
+    <g transform="translate(680,104)">
+      <rect width="280" height="176" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <circle cx="254" cy="26" r="13" fill="#3D99D4"/>
+      <text x="254" y="31" fill="#ffffff" font-size="15" font-weight="800" text-anchor="middle">3</text>
+      <rect x="20" y="22" width="40" height="40" rx="11" fill="#E1F0FA"/>
+      <path d="M44 30 L32 46 H40 L36 56 L50 40 H42 Z" fill="#3D99D4"/>
+      <text x="20" y="92" fill="#2C7099" font-size="9.5" letter-spacing="0.6" font-weight="700">PUT IT TO WORK</text>
+      <text x="20" y="116" fill="#2E2D3A" font-size="17" font-weight="700">Agents &amp; automation</text>
+      <text x="20" y="142" fill="#6B7280" font-size="12.5">Build and run the agents that do</text>
+      <text x="20" y="159" fill="#6B7280" font-size="12.5">the work, end to end.</text>
     </g>
   </g>
   <!-- connectors -->
   <g fill="#B9D9EC">
-    <path d="M248 192 l10 6 l-10 6 z"/>
-    <path d="M488 192 l10 6 l-10 6 z"/>
-    <path d="M728 192 l10 6 l-10 6 z"/>
+    <path d="M330 186 l10 6 l-10 6 z"/>
+    <path d="M650 186 l10 6 l-10 6 z"/>
   </g>
 </svg>

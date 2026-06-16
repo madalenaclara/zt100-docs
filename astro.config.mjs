@@ -19,19 +19,21 @@ export default defineConfig({
           { label: 'The journey', link: '/getting-started/the-journey/' },
           { label: "Who it's for", link: '/getting-started/who-its-for/' },
         ]},
-        { label: 'Diagnostics', items: [
-          { label: 'AI Maturity Assessment', link: '/diagnostics/ai-maturity-assessment/' },
-          { label: 'Insights dashboard', link: '/diagnostics/insights-dashboard/' },
-          { label: 'Risk & Compliance', link: '/diagnostics/risk-compliance/' },
-          { label: 'The browser extension', link: '/diagnostics/browser-extension/' },
-        ]},
-        { label: 'Learning', items: [
-          { label: 'Courses: journeys & micro-skills', link: '/learning/courses/' },
-          { label: 'AI Lab', link: '/learning/ai-lab/' },
-        ]},
-        { label: 'Workflows & automation', items: [
-          { label: 'Workflow analysis & builder', link: '/workflows/workflow-builder/' },
-          { label: 'AI Use Cases', link: '/workflows/ai-use-cases/' },
+        { label: 'The Platform', items: [
+          { label: 'Diagnostics', items: [
+            { label: 'AI Maturity Assessment', link: '/diagnostics/ai-maturity-assessment/' },
+            { label: 'Insights dashboard', link: '/diagnostics/insights-dashboard/' },
+            { label: 'Risk & Compliance', link: '/diagnostics/risk-compliance/' },
+            { label: 'The browser extension', link: '/diagnostics/browser-extension/' },
+          ]},
+          { label: 'Learning', items: [
+            { label: 'Courses: journeys & micro-skills', link: '/learning/courses/' },
+            { label: 'AI Lab', link: '/learning/ai-lab/' },
+          ]},
+          { label: 'Workflows', items: [
+            { label: 'Workflow analysis & builder', link: '/workflows/workflow-builder/' },
+            { label: 'AI Use Cases', link: '/workflows/ai-use-cases/' },
+          ]},
         ]},
         { label: 'Private AI', items: [
           { label: 'Connected AI across your work', link: '/private-ai/connected-ai/' },

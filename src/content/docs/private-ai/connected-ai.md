@@ -25,3 +25,5 @@ _The chat layer answers across the connected workspace. Mention a specific email
 
 ## Good to know
 This is the compliant alternative to public Copilot or ChatGPT: the same everyday help, grounded in the organisation's own work, running inside its own environment. The more it is used, the more context it has, so the output keeps getting more specific over time.
+
+Private AI is the secure environment where AI runs on the organisation's own data. The agents and automations that do the work are built in [Agents & automation](/agents/agents-automation/), and can run inside this environment when the data is sensitive.
