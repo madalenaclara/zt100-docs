@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1000 450" xmlns="http://www.w3.org/2000/svg" font-family="'Avenir Next', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="998" height="448" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
+  <text x="40" y="50" fill="#9AA0AE" font-size="12" letter-spacing="1.2" font-weight="700">LEARNING JOURNEYS</text>
+  <!-- journey cards -->
+  <g>
+    <g transform="translate(40,68)">
+      <rect width="280" height="150" rx="14" fill="#ffffff" stroke="#E6E6EC"/>
+      <rect x="20" y="22" width="64" height="20" rx="6" fill="#E1F0FA"/><text x="52" y="36" fill="#2C7099" font-size="10.5" font-weight="700" text-anchor="middle">BEGINNER</text>
+      <text x="20" y="74" fill="#2E2D3A" font-size="18" font-weight="700">AI Fluency</text>
+      <text x="20" y="96" fill="#8A8F9C" font-size="12.5">Self-paced · 6 lessons</text>
+      <rect x="20" y="110" width="240" height="7" rx="3.5" fill="#EEF0F3"/><rect x="20" y="110" width="180" height="7" rx="3.5" fill="#3D99D4"/>
+      <text x="20" y="136" fill="#6B7280" font-size="11.5">75% complete · Certificate</text>
+    </g>
+    <g transform="translate(360,68)">
+      <rect width="280" height="150" rx="14" fill="#ffffff" stroke="#E6E6EC"/>
+      <rect x="20" y="22" width="92" height="20" rx="6" fill="#EDE9FB"/><text x="66" y="36" fill="#6B4FC4" font-size="10.5" font-weight="700" text-anchor="middle">INTERMEDIATE</text>
+      <text x="20" y="74" fill="#2E2D3A" font-size="18" font-weight="700">Build Your AI Assistants</text>
+      <text x="20" y="96" fill="#8A8F9C" font-size="12.5">Self-paced · 8 lessons</text>
+      <rect x="20" y="110" width="240" height="7" rx="3.5" fill="#EEF0F3"/><rect x="20" y="110" width="96" height="7" rx="3.5" fill="#3D99D4"/>
+      <text x="20" y="136" fill="#6B7280" font-size="11.5">40% complete · Certificate</text>
+    </g>
+    <g transform="translate(680,68)">
+      <rect width="280" height="150" rx="14" fill="#ffffff" stroke="#E6E6EC"/>
+      <rect x="20" y="22" width="74" height="20" rx="6" fill="#FBEFE0"/><text x="57" y="36" fill="#B9772A" font-size="10.5" font-weight="700" text-anchor="middle">ADVANCED</text>
+      <text x="20" y="74" fill="#2E2D3A" font-size="18" font-weight="700">Automate Your Work</text>
+      <text x="20" y="96" fill="#8A8F9C" font-size="12.5">Self-paced · 7 lessons</text>
+      <rect x="20" y="110" width="240" height="7" rx="3.5" fill="#EEF0F3"/><rect x="20" y="110" width="34" height="7" rx="3.5" fill="#3D99D4"/>
+      <text x="20" y="136" fill="#6B7280" font-size="11.5">10% complete · Certificate</text>
+    </g>
+  </g>
+  <!-- micro-skills -->
+  <text x="40" y="270" fill="#9AA0AE" font-size="12" letter-spacing="1.2" font-weight="700">MICRO-SKILLS</text>
+  <g font-size="13" fill="#2E2D3A">
+    <g transform="translate(40,288)"><rect width="168" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Build a Custom GPT</text></g>
+    <g transform="translate(224,288)"><rect width="186" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Set up a Copilot agent</text></g>
+    <g transform="translate(426,288)"><rect width="158" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Work with Claude</text></g>
+    <g transform="translate(600,288)"><rect width="176" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Create a podcast</text></g>
+    <g transform="translate(792,288)"><rect width="168" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Summarise files</text></g>
+    <g transform="translate(40,332)"><rect width="180" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Write better prompts</text></g>
+    <g transform="translate(236,332)"><rect width="178" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Build a prototype</text></g>
+    <g transform="translate(430,332)"><rect width="166" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Clean data with AI</text></g>
+    <g transform="translate(612,332)"><rect width="190" height="34" rx="9" fill="#F4FAFD" stroke="#D9ECF7"/><text x="16" y="22">Draft a deck with AI</text></g>
+  </g>
+  <text x="40" y="404" fill="#B3B7C2" font-size="12">Assigned automatically from the assessment, available in several languages.</text>
+</svg>

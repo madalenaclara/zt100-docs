@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg" font-family="'Avenir Next', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="998" height="318" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
+  <text x="40" y="44" fill="#2E2D3A" font-size="19" font-weight="800">AI Lab</text>
+  <text x="40" y="66" fill="#8A8F9C" font-size="13">Practise and build, before anything is rolled out.</text>
+  <g>
+    <g transform="translate(40,90)">
+      <rect width="216" height="192" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <rect x="22" y="22" width="44" height="44" rx="12" fill="#E1F0FA"/>
+      <rect x="33" y="34" width="22" height="3" rx="1.5" fill="#3D99D4"/><rect x="33" y="42" width="22" height="3" rx="1.5" fill="#3D99D4"/><rect x="33" y="50" width="14" height="3" rx="1.5" fill="#3D99D4"/>
+      <text x="22" y="104" fill="#2E2D3A" font-size="16" font-weight="700">Prompt Library</text>
+      <text x="22" y="132" fill="#6B7280" font-size="12.5">Prompts that already</text>
+      <text x="22" y="150" fill="#6B7280" font-size="12.5">work, ready to reuse.</text>
+    </g>
+    <g transform="translate(280,90)">
+      <rect width="216" height="192" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <rect x="22" y="22" width="44" height="44" rx="12" fill="#E1F0FA"/>
+      <rect x="32" y="32" width="11" height="24" rx="2" fill="#3D99D4"/><rect x="46" y="32" width="11" height="24" rx="2" fill="#7FC0E4"/>
+      <text x="22" y="104" fill="#2E2D3A" font-size="16" font-weight="700">Prompt Arena</text>
+      <text x="22" y="132" fill="#6B7280" font-size="12.5">Compare approaches to</text>
+      <text x="22" y="150" fill="#6B7280" font-size="12.5">the same task, side by side.</text>
+    </g>
+    <g transform="translate(520,90)">
+      <rect width="216" height="192" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <rect x="22" y="22" width="44" height="44" rx="12" fill="#E1F0FA"/>
+      <circle cx="44" cy="44" r="12" fill="none" stroke="#3D99D4" stroke-width="2.4"/><circle cx="44" cy="44" r="4.5" fill="#3D99D4"/>
+      <text x="22" y="104" fill="#2E2D3A" font-size="16" font-weight="700">Workflow Challenge</text>
+      <text x="22" y="132" fill="#6B7280" font-size="12.5">Practise on real cases</text>
+      <text x="22" y="150" fill="#6B7280" font-size="12.5">to build confidence.</text>
+    </g>
+    <g transform="translate(760,90)">
+      <rect width="216" height="192" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <rect x="22" y="22" width="44" height="44" rx="12" fill="#E1F0FA"/>
+      <rect x="32" y="32" width="11" height="11" rx="2" fill="#3D99D4"/><rect x="46" y="32" width="11" height="11" rx="2" fill="#7FC0E4"/><rect x="32" y="46" width="11" height="11" rx="2" fill="#7FC0E4"/><rect x="46" y="46" width="11" height="11" rx="2" fill="#3D99D4"/>
+      <text x="22" y="104" fill="#2E2D3A" font-size="16" font-weight="700">Build Studio</text>
+      <text x="22" y="132" fill="#6B7280" font-size="12.5">Build and test an assistant</text>
+      <text x="22" y="150" fill="#6B7280" font-size="12.5">safely before deploying.</text>
+    </g>
+  </g>
+</svg>

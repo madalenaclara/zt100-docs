@@ -1,12 +1,18 @@
 ---
 title: Insights dashboard
-description: Where the organisation stands, in one view.
+description: Where the organisation stands, in one admin view.
 ---
 
-The results come together in one admin view. Five headline numbers sit at the top (AI usage, fluency, champions, automatable work and risk) with the detail beneath.
+The results come together in one admin view. Five headline numbers sit at the top (daily AI usage, fluency, AI champions, automatable work and risk exposure) with the detail beneath.
+
+![The admin dashboard: headline KPIs, AI transformation maturity, the fluency radar and the strategy-vs-capability matrix (demo data).](/images/overview.jpg)
+_Headline KPIs, the AI Transformation Maturity sliders, the fluency radar and the strategy-vs-capability matrix, benchmarked against peers (demo data)._
 
 ## What you can see
-- How the organisation compares to similar organisations (peer benchmarking).
-- A heatmap of every department against the five skills.
-- The priority themes to fix first, ranked by lowest score.
-- A current-versus-past view of whether scores are improving. All of it can be exported.
+- **Headline KPIs**: daily AI usage, fluency (proficient vs expert), AI champions, automatable work and risk exposure.
+- **AI transformation maturity** across skills, org change, strategy and governance, with targets you can set per dimension.
+- **The fluency radar** (current vs target) and a **strategy-vs-capability matrix** that benchmarks the organisation against peers.
+- A department heatmap, the priority themes to fix first, and progress over time. All of it can be exported.
+
+## Good to know
+This is the view a partner walks a client's leadership team through: evidence of where they stand, how they compare, and what to do next.

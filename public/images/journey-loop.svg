@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg" font-family="'Avenir Next', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="998" height="358" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
+  <text x="500" y="44" fill="#2E2D3A" font-size="19" font-weight="800" text-anchor="middle">A loop, not a one-off</text>
+  <!-- nodes -->
+  <g>
+    <g transform="translate(44,78)">
+      <rect width="196" height="130" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <circle cx="34" cy="36" r="16" fill="#3D99D4"/><text x="34" y="42" fill="#fff" font-size="16" font-weight="800" text-anchor="middle">1</text>
+      <text x="62" y="42" fill="#2E2D3A" font-size="18" font-weight="700">Assess</text>
+      <text x="22" y="80" fill="#6B7280" font-size="12.5">Measure where every</text>
+      <text x="22" y="98" fill="#6B7280" font-size="12.5">person and team stands.</text>
+    </g>
+    <g transform="translate(284,78)">
+      <rect width="196" height="130" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <circle cx="34" cy="36" r="16" fill="#3D99D4"/><text x="34" y="42" fill="#fff" font-size="16" font-weight="800" text-anchor="middle">2</text>
+      <text x="62" y="42" fill="#2E2D3A" font-size="18" font-weight="700">Learn</text>
+      <text x="22" y="80" fill="#6B7280" font-size="12.5">Close the gaps with</text>
+      <text x="22" y="98" fill="#6B7280" font-size="12.5">training matched to results.</text>
+    </g>
+    <g transform="translate(524,78)">
+      <rect width="196" height="130" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <circle cx="34" cy="36" r="16" fill="#3D99D4"/><text x="34" y="42" fill="#fff" font-size="16" font-weight="800" text-anchor="middle">3</text>
+      <text x="62" y="42" fill="#2E2D3A" font-size="18" font-weight="700">Build</text>
+      <text x="22" y="80" fill="#6B7280" font-size="12.5">Turn real tasks into</text>
+      <text x="22" y="98" fill="#6B7280" font-size="12.5">working assistants.</text>
+    </g>
+    <g transform="translate(764,78)">
+      <rect width="196" height="130" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+      <circle cx="34" cy="36" r="16" fill="#3D99D4"/><text x="34" y="42" fill="#fff" font-size="16" font-weight="800" text-anchor="middle">4</text>
+      <text x="62" y="42" fill="#2E2D3A" font-size="18" font-weight="700">Deploy</text>
+      <text x="22" y="80" fill="#6B7280" font-size="12.5">Put private AI and</text>
+      <text x="22" y="98" fill="#6B7280" font-size="12.5">automation to work.</text>
+    </g>
+  </g>
+  <!-- forward arrows -->
+  <g fill="#9CCBE6">
+    <path d="M248 143 l12 7 l-12 7 z"/>
+    <path d="M488 143 l12 7 l-12 7 z"/>
+    <path d="M728 143 l12 7 l-12 7 z"/>
+  </g>
+  <!-- return loop -->
+  <path d="M862 208 v66 a8 8 0 0 1 -8 8 H150 a8 8 0 0 1 -8 -8 v-66" fill="none" stroke="#3D99D4" stroke-width="2" stroke-dasharray="6 5"/>
+  <path d="M142 220 l-7 -12 l14 0 z" fill="#3D99D4"/>
+  <rect x="402" y="266" width="196" height="32" rx="16" fill="#EAF4FB"/>
+  <text x="500" y="287" fill="#2C7099" font-size="13" font-weight="700" text-anchor="middle">Re-assess to track progress</text>
+</svg>

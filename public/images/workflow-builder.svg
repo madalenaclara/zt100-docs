@@ -1,0 +1,51 @@
+<svg viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg" font-family="'Avenir Next', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="998" height="398" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
+  <!-- left: process steps -->
+  <text x="40" y="46" fill="#2E2D3A" font-size="18" font-weight="800">Monthly client reporting</text>
+  <text x="40" y="68" fill="#8A8F9C" font-size="13">5 steps · 6.5 hrs / week</text>
+  <g font-size="13.5">
+    <g transform="translate(40,86)">
+      <rect width="560" height="44" rx="10" fill="#F4FAFD" stroke="#E1EFF7"/>
+      <text x="18" y="28" fill="#2E2D3A" font-weight="600">1 · Pull data from systems</text>
+      <text x="372" y="28" fill="#8A8F9C" font-size="12.5">1.5h</text>
+      <rect x="420" y="12" width="124" height="20" rx="6" fill="#E7F6ED"/><text x="482" y="26" fill="#1F9D57" font-size="10.5" font-weight="700" text-anchor="middle">AI can take this</text>
+    </g>
+    <g transform="translate(40,138)">
+      <rect width="560" height="44" rx="10" fill="#F4FAFD" stroke="#E1EFF7"/>
+      <text x="18" y="28" fill="#2E2D3A" font-weight="600">2 · Clean and reconcile</text>
+      <text x="372" y="28" fill="#8A8F9C" font-size="12.5">1.0h</text>
+      <rect x="420" y="12" width="124" height="20" rx="6" fill="#E7F6ED"/><text x="482" y="26" fill="#1F9D57" font-size="10.5" font-weight="700" text-anchor="middle">AI can take this</text>
+    </g>
+    <g transform="translate(40,190)">
+      <rect width="560" height="44" rx="10" fill="#F4FAFD" stroke="#E1EFF7"/>
+      <text x="18" y="28" fill="#2E2D3A" font-weight="600">3 · Draft the narrative</text>
+      <text x="372" y="28" fill="#8A8F9C" font-size="12.5">2.0h</text>
+      <rect x="420" y="12" width="124" height="20" rx="6" fill="#E7F6ED"/><text x="482" y="26" fill="#1F9D57" font-size="10.5" font-weight="700" text-anchor="middle">AI can take this</text>
+    </g>
+    <g transform="translate(40,242)">
+      <rect width="560" height="44" rx="10" fill="#FAFAFB" stroke="#ECECF1"/>
+      <text x="18" y="28" fill="#2E2D3A" font-weight="600">4 · Review with manager</text>
+      <text x="372" y="28" fill="#8A8F9C" font-size="12.5">1.0h</text>
+      <rect x="424" y="12" width="120" height="20" rx="6" fill="#F1F1F4"/><text x="484" y="26" fill="#6B7280" font-size="10.5" font-weight="700" text-anchor="middle">Stays manual</text>
+    </g>
+    <g transform="translate(40,294)">
+      <rect width="560" height="44" rx="10" fill="#FAFAFB" stroke="#ECECF1"/>
+      <text x="18" y="28" fill="#2E2D3A" font-weight="600">5 · Send to client</text>
+      <text x="372" y="28" fill="#8A8F9C" font-size="12.5">1.0h</text>
+      <rect x="424" y="12" width="120" height="20" rx="6" fill="#F1F1F4"/><text x="484" y="26" fill="#6B7280" font-size="10.5" font-weight="700" text-anchor="middle">Stays manual</text>
+    </g>
+  </g>
+  <!-- right: outcome + assistant -->
+  <line x1="632" y1="40" x2="632" y2="360" stroke="#EEEEF2"/>
+  <text x="664" y="64" fill="#9AA0AE" font-size="11.5" letter-spacing="1" font-weight="700">AUTOMATABLE</text>
+  <text x="664" y="104" fill="#3D99D4" font-size="40" font-weight="800">~70%</text>
+  <text x="664" y="132" fill="#6B7280" font-size="13">≈ 4.5 hrs / week recoverable</text>
+  <rect x="664" y="156" width="296" height="172" rx="14" fill="#F4FAFD" stroke="#D4E9F5"/>
+  <text x="684" y="188" fill="#2C7099" font-size="11" letter-spacing="0.8" font-weight="700">SUGGESTED ASSISTANT</text>
+  <text x="684" y="214" fill="#2E2D3A" font-size="16" font-weight="700">Reporting drafter</text>
+  <text x="684" y="238" fill="#6B7280" font-size="12.5">Pulls the data, reconciles it</text>
+  <text x="684" y="256" fill="#6B7280" font-size="12.5">and drafts the report narrative.</text>
+  <rect x="684" y="282" width="132" height="24" rx="7" fill="#EAF4FB"/><text x="750" y="298" fill="#2C7099" font-size="11.5" font-weight="700" text-anchor="middle">Works in Copilot</text>
+  <rect x="828" y="282" width="112" height="24" rx="7" fill="#3D99D4"/>
+  <text x="884" y="298" fill="#ffffff" font-size="11.5" font-weight="700" text-anchor="middle">Copy &amp; use</text>
+</svg>

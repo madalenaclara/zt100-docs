@@ -1,0 +1,54 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" font-family="'Avenir Next', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="898" height="518" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
+  <!-- browser chrome -->
+  <rect x="1" y="1" width="898" height="56" rx="16" fill="#F4F5F7"/>
+  <rect x="1" y="40" width="898" height="17" fill="#F4F5F7"/>
+  <circle cx="34" cy="29" r="6" fill="#E0726A"/><circle cx="56" cy="29" r="6" fill="#E7B14C"/><circle cx="78" cy="29" r="6" fill="#5FB87A"/>
+  <rect x="120" y="16" width="640" height="26" rx="13" fill="#ffffff" stroke="#E0E1E6"/>
+  <text x="140" y="33" fill="#9AA0AE" font-size="12.5">app.chatgpt.com</text>
+  <!-- extension icon (active) -->
+  <rect x="822" y="14" width="30" height="30" rx="8" fill="#E1F0FA"/>
+  <path d="M831 23 h6 v-2 a3 3 0 0 1 6 0 v2 h3 v6 h2 a3 3 0 0 1 0 6 h-2 v6 h-15 z" fill="#3D99D4"/>
+  <!-- faded page -->
+  <rect x="40" y="84" width="470" height="20" rx="6" fill="#F0F1F4"/>
+  <rect x="40" y="120" width="380" height="14" rx="6" fill="#F4F5F7"/>
+  <rect x="40" y="146" width="430" height="14" rx="6" fill="#F4F5F7"/>
+  <rect x="40" y="172" width="300" height="14" rx="6" fill="#F4F5F7"/>
+  <!-- popup -->
+  <g transform="translate(560,72)">
+    <path d="M268 -4 l8 -12 l8 12 z" fill="#ffffff" stroke="#E6E6EC"/>
+    <rect x="0" y="0" width="300" height="400" rx="14" fill="#ffffff" stroke="#E6E6EC"/>
+    <path d="M20 28 L31 46 L9 46 Z" fill="#3D99D4" transform="translate(0,-6)"/>
+    <text x="44" y="28" fill="#2E2D3A" font-size="14" font-weight="700">Zero to 100</text>
+    <text x="44" y="44" fill="#9AA0AE" font-size="11">AI activity, this week</text>
+    <line x1="16" y1="60" x2="284" y2="60" stroke="#F0F0F4"/>
+    <!-- rows -->
+    <g font-size="13">
+      <g transform="translate(16,76)">
+        <text x="0" y="14" fill="#2E2D3A" font-weight="600">ChatGPT</text>
+        <rect x="0" y="24" width="200" height="6" rx="3" fill="#F0F1F4"/><rect x="0" y="24" width="170" height="6" rx="3" fill="#E0726A"/>
+        <rect x="208" y="6" width="76" height="20" rx="6" fill="#FBEAEA"/><text x="246" y="20" fill="#C0473F" font-size="10.5" font-weight="700" text-anchor="middle">Unauthorised</text>
+      </g>
+      <g transform="translate(16,124)">
+        <text x="0" y="14" fill="#2E2D3A" font-weight="600">Microsoft Copilot</text>
+        <rect x="0" y="24" width="200" height="6" rx="3" fill="#F0F1F4"/><rect x="0" y="24" width="120" height="6" rx="3" fill="#3FA06E"/>
+        <rect x="216" y="6" width="68" height="20" rx="6" fill="#E7F6ED"/><text x="250" y="20" fill="#1F9D57" font-size="10.5" font-weight="700" text-anchor="middle">Approved</text>
+      </g>
+      <g transform="translate(16,172)">
+        <text x="0" y="14" fill="#2E2D3A" font-weight="600">Claude</text>
+        <rect x="0" y="24" width="200" height="6" rx="3" fill="#F0F1F4"/><rect x="0" y="24" width="96" height="6" rx="3" fill="#E0726A"/>
+        <rect x="208" y="6" width="76" height="20" rx="6" fill="#FBEAEA"/><text x="246" y="20" fill="#C0473F" font-size="10.5" font-weight="700" text-anchor="middle">Unauthorised</text>
+      </g>
+      <g transform="translate(16,220)">
+        <text x="0" y="14" fill="#2E2D3A" font-weight="600">Google Gemini</text>
+        <rect x="0" y="24" width="200" height="6" rx="3" fill="#F0F1F4"/><rect x="0" y="24" width="72" height="6" rx="3" fill="#E0A93B"/>
+        <rect x="208" y="6" width="76" height="20" rx="6" fill="#FBEAEA"/><text x="246" y="20" fill="#C0473F" font-size="10.5" font-weight="700" text-anchor="middle">Unauthorised</text>
+      </g>
+    </g>
+    <line x1="16" y1="296" x2="284" y2="296" stroke="#F0F0F4"/>
+    <text x="16" y="322" fill="#6B7280" font-size="12">Detected in the background, no</text>
+    <text x="16" y="340" fill="#6B7280" font-size="12">interruption to the person's work.</text>
+    <rect x="16" y="356" width="268" height="30" rx="8" fill="#EAF4FB"/>
+    <text x="150" y="375" fill="#2C7099" font-size="11.5" font-weight="700" text-anchor="middle">Syncs to Risk &amp; Compliance</text>
+  </g>
+</svg>

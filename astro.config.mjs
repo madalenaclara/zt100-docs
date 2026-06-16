@@ -2,6 +2,8 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 // Set this to where you host the docs (used for SEO / sitemap).
+// Note: setting `site` currently crashes the bundled @astrojs/sitemap in this
+// Starlight version; leave it unset (sitemap is skipped) until that is upgraded.
 export default defineConfig({
   integrations: [
     starlight({
