@@ -1,0 +1,73 @@
+<svg viewBox="0 0 1000 470" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="998" height="468" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
+  <!-- perimeter -->
+  <rect x="48" y="70" width="612" height="346" rx="18" fill="#FAFAFD" stroke="#6D5BD0" stroke-width="2" stroke-dasharray="7 6"/>
+  <path d="M76 96 a10 10 0 0 1 10 -10 a10 10 0 0 1 10 10 v6 h4 v14 h-28 v-14 h4 z" fill="none" stroke="#6D5BD0" stroke-width="2"/>
+  <text x="108" y="106" fill="#5B4FC4" font-size="13" letter-spacing="0.8" font-weight="700">YOUR PRIVATE CLOUD / ON-PREMISE</text>
+  <!-- workspace card -->
+  <rect x="76" y="138" width="556" height="248" rx="14" fill="#ffffff" stroke="#E6E6EC"/>
+  <text x="100" y="172" fill="#2E2D3A" font-size="16" font-weight="700">AUGMTD workspace</text>
+  <text x="100" y="192" fill="#9AA0AE" font-size="12.5">One private AI layer, connected across the work</text>
+  <!-- feature tiles -->
+  <g>
+    <g transform="translate(100,212)">
+      <rect width="100" height="150" rx="12" fill="#F6F5FC"/>
+      <rect x="38" y="26" width="24" height="18" rx="4" fill="#6D5BD0"/>
+      <text x="50" y="92" fill="#2E2D3A" font-size="13" font-weight="600" text-anchor="middle">Inbox</text>
+    </g>
+    <g transform="translate(212,212)">
+      <rect width="100" height="150" rx="12" fill="#F6F5FC"/>
+      <rect x="36" y="26" width="28" height="18" rx="4" fill="#6D5BD0"/>
+      <path d="M64 30 l8 -4 v18 l-8 -4 z" fill="#6D5BD0"/>
+      <text x="50" y="92" fill="#2E2D3A" font-size="13" font-weight="600" text-anchor="middle">Meetings</text>
+    </g>
+    <g transform="translate(324,212)">
+      <rect width="100" height="150" rx="12" fill="#F6F5FC"/>
+      <path d="M38 44 v-16 a2 2 0 0 1 2 -2 h6 l3 4 h9 a2 2 0 0 1 2 2 v12 a2 2 0 0 1 -2 2 h-18 a2 2 0 0 1 -2 -2 z" fill="#6D5BD0"/>
+      <text x="50" y="92" fill="#2E2D3A" font-size="13" font-weight="600" text-anchor="middle">Drive</text>
+    </g>
+    <g transform="translate(436,212)">
+      <rect width="100" height="150" rx="12" fill="#F6F5FC"/>
+      <path d="M36 26 h28 a4 4 0 0 1 4 4 v8 a4 4 0 0 1 -4 4 h-18 l-7 6 v-6 h-3 a4 4 0 0 1 -4 -4 v-8 a4 4 0 0 1 4 -4 z" fill="#6D5BD0"/>
+      <text x="50" y="92" fill="#2E2D3A" font-size="13" font-weight="600" text-anchor="middle">Chat</text>
+    </g>
+    <g transform="translate(548,212)">
+      <rect width="100" height="150" rx="12" fill="#F6F5FC"/>
+      <path d="M54 24 l-10 14 h7 l-2 12 10 -14 h-7 z" fill="#6D5BD0"/>
+      <text x="50" y="92" fill="#2E2D3A" font-size="12.5" font-weight="600" text-anchor="middle">Workflows</text>
+    </g>
+  </g>
+  <!-- controls column -->
+  <text x="712" y="106" fill="#9AA0AE" font-size="12" letter-spacing="1" font-weight="700">CONTROLS</text>
+  <g font-size="13.5" fill="#2E2D3A" font-weight="600">
+    <g transform="translate(712,128)">
+      <rect width="236" height="46" rx="11" fill="#F4F4F8" stroke="#E6E6EC"/>
+      <path d="M18 22 v-3.5 a3.2 3.2 0 0 1 6.4 0 v3.5" fill="none" stroke="#6B7280" stroke-width="1.6"/>
+      <rect x="15" y="21.5" width="12.4" height="10" rx="2" fill="#6B7280"/>
+      <text x="44" y="29">Audit logs</text>
+    </g>
+    <g transform="translate(712,184)">
+      <rect width="236" height="46" rx="11" fill="#F4F4F8" stroke="#E6E6EC"/>
+      <circle cx="17.5" cy="20" r="3.2" fill="#6B7280"/><circle cx="25" cy="20" r="3.2" fill="#6B7280"/>
+      <path d="M11.5 31 a6 6 0 0 1 12 0 z" fill="#6B7280"/><path d="M19.5 31 a6 6 0 0 1 11.5 0 z" fill="#6B7280"/>
+      <text x="44" y="29">Role-based access</text>
+    </g>
+    <g transform="translate(712,240)">
+      <rect width="236" height="46" rx="11" fill="#F4F4F8" stroke="#E6E6EC"/>
+      <rect x="15" y="15" width="14" height="17" rx="2.5" fill="none" stroke="#6B7280" stroke-width="1.6"/>
+      <rect x="18.5" y="13" width="7" height="4.5" rx="1.4" fill="#6B7280"/>
+      <line x1="18.5" y1="23" x2="25.5" y2="23" stroke="#6B7280" stroke-width="1.4"/>
+      <line x1="18.5" y1="27" x2="25.5" y2="27" stroke="#6B7280" stroke-width="1.4"/>
+      <text x="44" y="29">Policy controls</text>
+    </g>
+    <g transform="translate(712,296)">
+      <rect width="236" height="46" rx="11" fill="#EAF7F0" stroke="#CDEBDB"/>
+      <path d="M15 23 l4.5 4.5 l8.5 -10" fill="none" stroke="#1F9D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="44" y="29" fill="#1F9D57">GDPR-ready</text>
+    </g>
+  </g>
+  <!-- data-never-leaves barrier -->
+  <line x1="680" y1="372" x2="948" y2="372" stroke="#E6E6EC"/>
+  <text x="712" y="396" fill="#6B7280" font-size="12.5">Data never leaves your environment.</text>
+  <text x="712" y="414" fill="#B3B7C2" font-size="12">No external provider. No public model.</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg viewBox="0 0 1000 630" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="violet3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6D5BD0"/><stop offset="1" stop-color="#8B7BE8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="628" rx="16" fill="#ffffff" stroke="#E6E6EC"/>
+  <!-- icon rail -->
+  <rect x="2" y="2" width="58" height="626" rx="14" fill="#FBFBFD"/>
+  <line x1="60" y1="2" x2="60" y2="628" stroke="#EEEEF2"/>
+  <path d="M31 22 L42 42 L20 42 Z" fill="url(#violet3)"/>
+  <g fill="#C5C7D0">
+    <rect x="20" y="78" width="22" height="18" rx="4"/>
+    <circle cx="31" cy="126" r="10"/>
+    <rect x="20" y="160" width="22" height="16" rx="4"/>
+    <rect x="20" y="202" width="22" height="18" rx="4"/>
+  </g>
+  <rect x="16" y="244" width="30" height="30" rx="9" fill="#EDEBFB"/>
+  <path d="M22 268 v-12 a2 2 0 0 1 2 -2 h5 l2 3 h7 a2 2 0 0 1 2 2 v9 a2 2 0 0 1 -2 2 h-21 a2 2 0 0 1 -2 -2 z" fill="#6D5BD0"/>
+  <circle cx="31" cy="600" r="13" fill="#E7E2F6"/>
+  <!-- left column -->
+  <line x1="320" y1="2" x2="320" y2="628" stroke="#EEEEF2"/>
+  <rect x="82" y="34" width="216" height="30" rx="8" fill="#F4F4F7"/>
+  <text x="98" y="54" fill="#A9AEBA" font-size="13">Search files…</text>
+  <rect x="82" y="78" width="216" height="34" rx="8" fill="#EFEDFB"/>
+  <text x="100" y="100" fill="#5B4FC4" font-size="14" font-weight="600">All Files</text>
+  <circle cx="284" cy="95" r="11" fill="#E1DDF7"/>
+  <text x="284" y="99" fill="#5B4FC4" font-size="11" font-weight="700" text-anchor="middle">3</text>
+  <text x="84" y="146" fill="#9AA0AE" font-size="12" letter-spacing="1.1" font-weight="700">FOLDERS</text>
+  <path d="M100 174 v-13 a2 2 0 0 1 2 -2 h5 l2.5 3 h7 a2 2 0 0 1 2 2 v10 a2 2 0 0 1 -2 2 h-16.5 a2 2 0 0 1 -2 -2 z" fill="#E0A93B" fill-opacity="0.9"/>
+  <text x="126" y="174" fill="#2E2D3A" font-size="14">Invoices &amp; Payment</text>
+  <text x="100" y="202" fill="#A9AEBA" font-size="13">+  New folder</text>
+  <text x="84" y="248" fill="#9AA0AE" font-size="12" letter-spacing="1.1" font-weight="700">ADD FILES</text>
+  <path d="M108 272 v-12 m-4 4 l4 -4 l4 4 M101 274 h14" fill="none" stroke="#6B7280" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="126" y="276" fill="#2E2D3A" font-size="14">Upload a file</text>
+  <rect x="101" y="295" width="15" height="11" rx="2" fill="none" stroke="#6B7280" stroke-width="1.5"/>
+  <line x1="104" y1="302" x2="113" y2="302" stroke="#6B7280" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="126" y="304" fill="#2E2D3A" font-size="14">Add from Drive</text>
+  <!-- main -->
+  <text x="348" y="56" fill="#2E2D3A" font-size="22" font-weight="700">All Files</text>
+  <rect x="348" y="84" width="16" height="16" rx="4" fill="#ffffff" stroke="#CFCFDA"/>
+  <text x="376" y="97" fill="#9AA0AE" font-size="13">Select all</text>
+  <!-- file rows -->
+  <g transform="translate(348,118)">
+    <line x1="0" y1="0" x2="616" y2="0" stroke="#F0F0F4"/>
+    <text x="0" y="34" fill="#2E2D3A" font-size="15" font-weight="600">Atlas Holdings — SPA redlines v4.3</text>
+    <rect x="430" y="20" width="78" height="20" rx="5" fill="#F1F1F4"/>
+    <text x="469" y="34" fill="#6B7280" font-size="11" font-weight="600" text-anchor="middle">document</text>
+    <rect x="520" y="20" width="78" height="20" rx="5" fill="#EAE7FB"/>
+    <text x="559" y="34" fill="#5B4FC4" font-size="11" font-weight="600" text-anchor="middle">Workflow</text>
+  </g>
+  <g transform="translate(348,176)">
+    <line x1="0" y1="0" x2="616" y2="0" stroke="#F0F0F4"/>
+    <text x="0" y="34" fill="#2E2D3A" font-size="15" font-weight="600">Meeting: Kickoff — Atlas Holdings.txt</text>
+    <rect x="430" y="20" width="78" height="20" rx="5" fill="#E7F6ED"/>
+    <text x="469" y="34" fill="#1F9D57" font-size="11" font-weight="600" text-anchor="middle">transcript</text>
+    <rect x="520" y="20" width="78" height="20" rx="5" fill="#E7F6ED"/>
+    <text x="559" y="34" fill="#1F9D57" font-size="11" font-weight="600" text-anchor="middle">Meeting</text>
+  </g>
+  <g transform="translate(348,234)">
+    <line x1="0" y1="0" x2="616" y2="0" stroke="#F0F0F4"/>
+    <text x="0" y="34" fill="#2E2D3A" font-size="15" font-weight="600">Q1 Working Papers — Morrison &amp; Lee.txt</text>
+    <rect x="430" y="20" width="78" height="20" rx="5" fill="#E7F6ED"/>
+    <text x="469" y="34" fill="#1F9D57" font-size="11" font-weight="600" text-anchor="middle">transcript</text>
+    <rect x="520" y="20" width="78" height="20" rx="5" fill="#E7F6ED"/>
+    <text x="559" y="34" fill="#1F9D57" font-size="11" font-weight="600" text-anchor="middle">Meeting</text>
+    <line x1="0" y1="58" x2="616" y2="58" stroke="#F0F0F4"/>
+  </g>
+</svg>
