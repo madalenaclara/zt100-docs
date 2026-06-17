@@ -1,6 +1,7 @@
 ---
 title: FAQ
 description: Common questions about the platform.
+tableOfContents: false
 ---
 
 Answers to the questions we hear most often.

@@ -1,6 +1,7 @@
 ---
 title: The journey
 description: Assess, learn, build, deploy, then again.
+tableOfContents: false
 ---
 
 Each part of the platform does one job. Used together they form a loop, so an organisation keeps moving and you can show progress over time rather than a one-off snapshot.

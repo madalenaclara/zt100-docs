@@ -1,6 +1,7 @@
 ---
 title: Who it's for
 description: A clear, measurable path to AI across the organisation.
+tableOfContents: false
 ---
 
 Zero to 100 is for leaders who want a clear, measurable path to AI across the organisation, not a pile of disconnected tools and one-off training.

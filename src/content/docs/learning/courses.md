@@ -1,6 +1,7 @@
 ---
 title: "Courses: learning journeys & micro-skills"
 description: Structured journeys and short, current micro-skills.
+tableOfContents: false
 ---
 
 Two kinds of course, so a person can follow a full path or pick up a single skill.

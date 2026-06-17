@@ -1,6 +1,7 @@
 ---
 title: AI Lab
 description: A hands-on space to practise and build.
+tableOfContents: false
 ---
 
 A hands-on space where people practise and build, separate from the courses. It is where a skill becomes real work before anything is rolled out.

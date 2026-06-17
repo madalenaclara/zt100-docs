@@ -1,6 +1,7 @@
 ---
 title: Agents & automation
 description: Agents, tools and automation that remove manual work.
+tableOfContents: false
 ---
 
 Once the foundations are in place, the platform builds agents, tools and automations that remove manual work, designed around a client's real bottlenecks.

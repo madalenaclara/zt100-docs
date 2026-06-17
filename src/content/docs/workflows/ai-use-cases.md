@@ -1,6 +1,7 @@
 ---
 title: AI Use Cases
 description: Where automation pays off, organisation-wide.
+tableOfContents: false
 ---
 
 The platform aggregates the mapped workflows into an organisation-wide view: which business processes are most automatable, how many people they affect, and how many weekly hours could be recovered.

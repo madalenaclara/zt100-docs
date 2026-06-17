@@ -1,6 +1,7 @@
 ---
 title: Meetings
 description: An AI meeting assistant that prepares, records, transcribes and files every meeting.
+tableOfContents: false
 ---
 
 An AI meeting assistant connected to the calendar. It prepares a briefing for upcoming meetings, records and transcribes the ones the person joins, and turns each into searchable notes, all inside the private environment. Meeting prep is done in advance and notes are taken automatically, so people can listen instead of typing.

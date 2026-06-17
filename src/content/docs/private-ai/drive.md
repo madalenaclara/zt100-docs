@@ -1,6 +1,7 @@
 ---
 title: Drive
 description: A private document store and knowledge base that grounds the AI in your own content.
+tableOfContents: false
 ---
 
 The workspace's private document store and knowledge base. It holds documents, meeting transcripts and workflow outputs in one place, and people can upload files directly or sync from an existing drive. This is the grounding layer: what the private AI reads so its answers come from the organisation's own content rather than the open web.

@@ -1,6 +1,7 @@
 ---
 title: Community
 description: A shared space that keeps AI momentum going, where people submit ideas, share resources and see the best use cases get implemented.
+tableOfContents: false
 ---
 
 AI adoption sticks when it becomes part of how a team works, not a one-off training. The Community space keeps the momentum going after the programme starts: people share what works, submit AI use cases from their own jobs, and watch the best ideas get implemented across the organisation. It is where internal AI Champions keep the energy up and turn scattered enthusiasm into shared practice.

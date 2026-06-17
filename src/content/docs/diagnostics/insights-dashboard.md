@@ -1,6 +1,7 @@
 ---
 title: Insights dashboard
 description: Where the organisation stands, in one admin view.
+tableOfContents: false
 ---
 
 The results come together in one admin view. Five headline numbers sit at the top (daily AI usage, fluency, AI champions, automatable work and risk exposure) with the detail beneath.

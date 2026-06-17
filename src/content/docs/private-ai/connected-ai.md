@@ -1,6 +1,7 @@
 ---
 title: Connected AI across your work
 description: One private AI layer across email, calendar, meetings, documents and workflows.
+tableOfContents: false
 ---
 
 Most AI tools start from zero every session. They do not know the person's meetings, inbox or work, so the output is generic and someone has to re-explain the context each time. Private AI takes the opposite approach: one AI layer connected across email, calendar, meetings, documents, knowledge bases and internal systems, sharing a single context so it already knows the person's work. Drafts, summaries and answers are about them and their organisation, and nothing leaves the environment.

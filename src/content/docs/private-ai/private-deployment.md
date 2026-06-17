@@ -1,6 +1,7 @@
 ---
 title: Private deployment & controls
 description: AI inside the client's environment, with the controls regulated teams need.
+tableOfContents: false
 ---
 
 Everything described in this section runs inside the client's own environment. The private AI is deployed in their private cloud or on-premise, behind their perimeter, with the controls a regulated organisation needs: GDPR-ready workflows, audit logs, role-based access and policy controls. Data is private by default and is never shared with an external provider. Where a process needs it, agents can be built to run inside the same environment.

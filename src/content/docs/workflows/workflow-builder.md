@@ -1,6 +1,7 @@
 ---
 title: Workflow analysis & assistant builder
 description: Turn a real task into a working assistant.
+tableOfContents: false
 ---
 
 An employee maps a real process, the steps and the hours it takes. The platform estimates how much of it AI could handle, then suggests a ready-made assistant for the task that the person sets up by copying and pasting into the tool they already use, such as Copilot.

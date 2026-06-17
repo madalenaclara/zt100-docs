@@ -1,6 +1,7 @@
 ---
 title: Risk & Compliance
 description: AI risk, governance and shadow-AI detection.
+tableOfContents: false
 ---
 
 The same assessment data powers a governance view. The platform scores the organisation's AI risk, breaks it down by department, and detects which AI tools people are actually using, flagging each as approved or not against a list you control.

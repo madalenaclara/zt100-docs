@@ -1,6 +1,7 @@
 ---
 title: Workflows & workers (Studio)
 description: Describe a workflow in plain language, or add a ready-made AI worker.
+tableOfContents: false
 ---
 
 Studio is where the private AI stops waiting to be asked and starts preparing work in advance. Describe a workflow in plain language and it builds a reusable one that runs on a schedule, acts on the inbox, and has the work ready before someone needs it. Workflows can be kept private or shared across the team.

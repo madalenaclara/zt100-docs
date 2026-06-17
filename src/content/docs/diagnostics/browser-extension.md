@@ -1,6 +1,7 @@
 ---
 title: The browser extension
 description: See real AI usage as it happens.
+tableOfContents: false
 ---
 
 An optional, light-touch browser extension that records which AI tools are used across the organisation, in real time, without getting in anyone's way.

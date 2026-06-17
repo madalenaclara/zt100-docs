@@ -1,6 +1,7 @@
 ---
 title: Changelog
 description: What's new on the platform.
+tableOfContents: false
 ---
 
 A running log of new features and improvements on the platform. Most recent first.
