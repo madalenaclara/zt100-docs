@@ -14,12 +14,6 @@ export default defineConfig({
       // Replace the href with your real partner-app docs route.
       pagination: true,
       sidebar: [
-        // Persistent shortcuts, reachable from every page (kept open on purpose)
-        { label: 'Jump to', collapsed: false, items: [
-          { label: 'Private AI', link: '/private-ai/connected-ai/' },
-          { label: 'Governance & risk', link: '/diagnostics/risk-compliance/' },
-          { label: 'Agents & automation', link: '/agents/agents-automation/' },
-        ]},
         { label: 'Getting started', collapsed: true, items: [
           { label: 'What is Zero to 100', link: '/' },
           { label: 'The journey', link: '/getting-started/the-journey/' },
@@ -53,10 +47,7 @@ export default defineConfig({
           ]},
         ]},
         { label: 'How it is packaged', link: '/getting-started/how-its-packaged/' },
-        { label: 'Resources', collapsed: true, items: [
-          { label: 'Changelog', link: '/resources/changelog/' },
-          { label: 'FAQ', link: '/resources/faq/' },
-        ]},
+        { label: 'FAQ', link: '/resources/faq/' },
       ],
     }),
   ],
