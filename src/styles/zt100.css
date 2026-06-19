@@ -72,7 +72,21 @@
   color: #5A6170;
   line-height: 1.4;
 }
-/* subtle per-pillar background differentiation */
-.pillar--platform { background: #EAF5FC; }
-.pillar--private  { background: #F2F3F6; }
-.pillar--agents   { background: #FBFAE6; }
+.pillar__caps {
+  margin-top: 0.45rem;
+  font-size: 0.78rem;
+  color: #6B7280;
+  line-height: 1.45;
+}
+/* subtle per-stage background differentiation (blue / yellow / neutral) */
+.pillar--stage1 { background: #EAF5FC; }
+.pillar--stage2 { background: #FBFAE6; }
+.pillar--stage3 { background: #EEF0F3; }
+
+/* homepage "by need" shortcuts */
+.shortcuts {
+  margin: 0.25rem 0 1.5rem;
+  font-size: 0.9rem;
+  color: #5A6170;
+}
+.shortcuts a { font-weight: 600; }
